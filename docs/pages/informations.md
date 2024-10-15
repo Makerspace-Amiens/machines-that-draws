@@ -6,39 +6,29 @@ component_toc: true
 hero_image: ../../axidraw-twitter-stokeastic.png
 hero_darken: true
 title: Machines that Draws
-subtitle: Découvrez le robot Otto
+subtitle: Fabriquez votre machine qui dessine !
 ---
 
-# Robot Otto
+# Machines That Draws
 
-## Qu'est-ce qu'Otto ?
-Le robot Otto est un petit robot humanoïde open-source, développé pour enseigner les bases de la robotique et de la programmation. Facile à assembler et à personnaliser, Otto est adapté aux enfants, aux étudiants et aux amateurs de robotique. Il est souvent utilisé dans les écoles et les ateliers de Makerspaces pour initier les jeunes aux STEM (Sciences, Technologie, Ingénierie, Mathématiques).
+"Machines That Draws" est un projet pratique du [MakerSpace](makerspace-amiens.fr) ([UniLaSalle Amiens](https://www.unilasalle-amiens.fr)) axé sur la conception et la réalisation d'une machine de dessin automatisée, imaginée par les étudiants sans plans préexistants. 
 
-## Caractéristiques principales
-- **Open-source** : Le projet est disponible gratuitement en ligne, avec des plans, des fichiers de conception 3D et des guides d'assemblage.
-- **Modulaire** : Otto peut être personnalisé avec différents capteurs, modules de son, LED, etc.
-- **Programmable** : Le robot peut être programmé avec Arduino, MakeCode, ou d’autres plateformes de programmation visuelle.
-- **Impression 3D** : Les composants du robot peuvent être imprimés en 3D, ce qui permet aux utilisateurs de fabriquer leur propre Otto.
+Inspiré par des dispositifs comme l'Axidraw ou d'autres projets open source, ce projet permet aux étudiants de travailler avec des composants électroniques tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
 
-## Composants de base
-Pour construire un Otto, il faut généralement les composants suivants :
-- **Carte microcontrôleur** : Arduino Nano (ou similaire).
-- **Servomoteurs** : 4 mini servomoteurs pour les mouvements de marche.
-- **Capteur ultrasonique** : Pour permettre au robot de détecter les obstacles.
-- **Module de son** : Pour émettre des sons (en option).
-- **LED** : Des LEDs RGB pour les yeux (optionnel).
-- **Structure** : Pièces imprimées en 3D pour le corps, les jambes et les pieds.
+Le projet se déroule sur deux semestres (30 heures par semestre) permettant aux étudiants de s'immerger dans la conception, la fabrication et la programmation de la machine.
 
-## Fonctionnalités
-Otto est capable de réaliser divers mouvements et actions :
-- **Marche et danse** : Il peut se déplacer de différentes manières, y compris marcher, tourner, danser, etc.
-- **Détection d'obstacles** : Grâce à son capteur ultrasonique, Otto peut détecter et éviter les obstacles.
-- **Interactivité** : Avec des LED et des sons, il peut réagir de manière amusante et engageante pour les utilisateurs.
+## Objectifs et contenu du cours
 
-## Ressources
-- **Site officiel** : [Otto DIY](https://www.ottodiy.com/)
-- **Fichiers et documentation** : Le projet Otto dispose d'une documentation complète avec des plans, des fichiers STL pour l'impression 3D, et des guides de programmation.
-- **Communauté** : Otto DIY a une communauté active qui partage des idées, des modifications, et des améliorations du robot.
+- **Conception Assistée par Ordinateur (CAO) :** Les étudiants apprendront à dessiner et à modéliser les pièces de la machine en utilisant des logiciels de CAO. Cela leur permettra de planifier la structure et les différents éléments de la machine.
 
-## Pourquoi choisir Otto ?
-Le robot Otto est idéal pour quiconque souhaite explorer la robotique de manière ludique et éducative. Sa conception open-source et modulaire permet de le personnaliser selon ses préférences, en ajoutant des fonctionnalités ou en adaptant son apparence. C’est également un outil pédagogique puissant pour développer des compétences en programmation et en ingénierie.
+- **Impression 3D et découpe laser :** Une fois les pièces modélisées, elles seront fabriquées en utilisant l'imprimante 3D et la découpe laser disponibles au MakerSpace. Ces technologies permettront aux étudiants d'apprendre par la création de prototypes et par itérations successives.
+
+- **Programmation et électronique :** Les étudiants développeront et réutiliseront des compétences en électronique et en code pour faire fonctionner les différents composants, comme les moteurs et les servos, en utilisant des cartes Arduino et des CNC Shields. Ils pourront également travailler sur le développement du logiciel permettant de générer les dessins, ou créer leur propre carte électronique s'ils le désirent.
+
+- **Assemblage et calibration :** Les étudiants assembleront la machine en mettant en place tous les composants et en assurant leur alignement et leur bon fonctionnement. La calibration est essentielle pour garantir la précision des dessins.
+
+## Environnement d'apprentissage
+
+Le cours se déroule dans le [MakerSpace](https://makerspace-amiens.fr), un espace d'apprentissage dynamique équipé de toutes les ressources nécessaires à la réalisation de projets techniques. Les étudiants auront accès aux machines, aux outils, et au support technique requis pour concrétiser leur machine de dessin. 
+
+L'accent est mis sur l'apprentissage par la pratique, la collaboration et l'innovation, permettant aux étudiants de mettre en application les compétences acquises précédemment dans un cadre motivant et stimulant.
