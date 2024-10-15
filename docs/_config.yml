@@ -1,9 +1,8 @@
-title: Otto - Le mini robot !
-description: Otto by MakerSpace
+title: Machine That Draws
+description: Concevez et fabriquez votre machine qui dessine !
 theme: bulma-clean-theme
 
-url: https://github.com/Makerspace-Amiens/CraftTheDocs-V1.0
-
+url: https://github.com/Makerspace-Amiens/machines-that-draws
 force_theme: light
 permalink: pretty
 footer_menu: footer_navigation
@@ -17,4 +16,3 @@ collections:
     layout: documentation
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-

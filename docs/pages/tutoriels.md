@@ -1,8 +1,8 @@
 ---
 title: Tutoriels
-subtitle: Liste des tutoriels pour le robot Otto
+subtitle: Liste des tutoriels
 layout: documentation-category
-type: otto
+type: tuto
 show_sidebar: false
 hero_height: is-small
 ---

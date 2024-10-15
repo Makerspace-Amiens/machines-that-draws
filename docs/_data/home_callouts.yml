@@ -1,4 +1,4 @@
-style: is-light
+style: is-dark
 height: is-medium
 items:
   - title: Informations générales
@@ -11,13 +11,13 @@ items:
   - title: Le materiel
     icon: fa-toolbox
     description: >
-      Une description et une documentation de l'ensembles des machines et du materiel est disponible ici.
+      Une description et une documentation du matériel poru ce projet
     call_to_action_name: Voir le materiel
     call_to_action_link: /pages/materiels
 
   - title: Tutoriels
     description: >
-      Retrouvez les tutoriels pour réaliser votre otto
+      Retrouvez les tutoriels démarrer la création de votre machine
     icon: fa-cogs
     call_to_action_name: Voir les projets
     call_to_action_link: /pages/tutoriels

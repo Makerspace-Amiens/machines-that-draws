@@ -3,9 +3,9 @@ layout: documentation
 hide_hero: false
 doc_header: false
 component_toc: true
-hero_image: ../../otto-mks.jpg
+hero_image: ../../axidraw-twitter-stokeastic.png
 hero_darken: true
-title: Le robot Otto
+title: Machines that Draws
 subtitle: Découvrez le robot Otto
 ---
 
