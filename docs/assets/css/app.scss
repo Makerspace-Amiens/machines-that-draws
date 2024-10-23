@@ -17,7 +17,12 @@ $footer-padding: 2rem 1.5rem 2rem;
 /* Import du fichier CSS principal du thème */
 @import "main";
 
+
 /* Styles personnalisés */
+.navbar-burger {
+    color: #ffffff; // Remplacez par la couleur de votre choix
+}
+
 .divider {
     border-top: 2px solid #dbdbdb;
     margin: 2rem 0;
@@ -44,4 +49,5 @@ $footer-padding: 2rem 1.5rem 2rem;
 .rounded-large-corners {
     border-radius: 1.00rem;
 }
+
 
