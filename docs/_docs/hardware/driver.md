@@ -15,7 +15,7 @@ manufacturer:
   - name: Pololu
     link: "https://www.pololu.com/product/1182"
 
-todo: 70
+todo: 80
 author: Adrien BRACQ
 ---
 

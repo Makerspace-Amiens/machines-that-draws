@@ -15,7 +15,7 @@ manufacturer:
   - name: FeeTech
     link: "https://www.feetechrc.com/6v-32kg-analog-steering-gear.html"
 
-todo: 30
+todo: 50
 author: Adrien BRACQ
 ---
 

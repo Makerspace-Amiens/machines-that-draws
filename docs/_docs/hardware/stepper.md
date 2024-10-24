@@ -15,7 +15,7 @@ manufacturer:
   - name: OMC-stepperonline
     link: "https://www.omc-stepperonline.com/"
 
-todo: 70
+todo: 80
 author: Adrien BRACQ
 ---
 
