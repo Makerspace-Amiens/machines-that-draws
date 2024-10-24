@@ -37,6 +37,6 @@ status="is-info" dismissable="false" icon="fas fa-exclamation-triangle" %}
 {%
   include card_collections.html
   title="Pour aller plus loin"
-  description="Trouvez d'autres tutoriels en lien le projet"
+  description="Trouvez d'autres tutoriels en lien avec le projet"
   type="tuto"
 %}
