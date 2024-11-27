@@ -1,5 +1,5 @@
 style: is-dark
-height: is-medium
+height: is-small
 items:
   - title: Informations générales
     icon: fa-info-circle

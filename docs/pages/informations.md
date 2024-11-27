@@ -9,26 +9,92 @@ title: Machines that Draws
 subtitle: Fabriquez votre machine qui dessine !
 ---
 
-# Machines That Draws
+## Machines That Draws
 
-"Machines That Draws" est un projet pratique du [MakerSpace](makerspace-amiens.fr) ([UniLaSalle Amiens](https://www.unilasalle-amiens.fr)) axé sur la conception et la réalisation d'une machine de dessin automatisée, imaginée par les étudiants sans plans préexistants. 
+Bienvenue dans le projet **"Machines That Draws"** ! Vous allez concevoir et construire votre propre machine de dessin automatisée, sans plans préétablis, en laissant libre cours à votre imagination et vos compétences. 
 
-Inspiré par des dispositifs comme l'Axidraw ou d'autres projets open source, ce projet permet aux étudiants de travailler avec des composants électroniques tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
+Inspiré par des dispositifs comme l'Axidraw et des projets open source, ce projet vous permettra d’explorer des domaines variés comme l’électronique, la programmation, et la fabrication numérique, tout en manipulant des composants tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
 
-Le projet se déroule sur deux semestres (30 heures par semestre) permettant aux étudiants de s'immerger dans la conception, la fabrication et la programmation de la machine.
+Le projet se déroule sur deux semestres (30 heures par semestre), ce qui vous laissera le temps de vous immerger pleinement dans toutes les étapes de création.
 
-## Objectifs et contenu du cours
+---
 
-- **Conception Assistée par Ordinateur (CAO) :** Les étudiants apprendront à dessiner et à modéliser les pièces de la machine en utilisant des logiciels de CAO. Cela leur permettra de planifier la structure et les différents éléments de la machine.
+## Ce que vous allez apprendre et réaliser
 
-- **Impression 3D et découpe laser :** Une fois les pièces modélisées, elles seront fabriquées en utilisant l'imprimante 3D et la découpe laser disponibles au MakerSpace. Ces technologies permettront aux étudiants d'apprendre par la création de prototypes et par itérations successives.
+- **Conception Assistée par Ordinateur (CAO)** : Vous apprendrez à dessiner et modéliser les pièces de votre machine à l’aide de logiciels de CAO. Cette étape est cruciale pour planifier la structure et les composants de votre machine.
 
-- **Programmation et électronique :** Les étudiants développeront et réutiliseront des compétences en électronique et en code pour faire fonctionner les différents composants, comme les moteurs et les servos, en utilisant des cartes Arduino et des CNC Shields. Ils pourront également travailler sur le développement du logiciel permettant de générer les dessins, ou créer leur propre carte électronique s'ils le désirent.
+- **Fabrication numérique** : Une fois vos pièces conçues, vous utiliserez les outils du MakerSpace pour les fabriquer. Impression 3D, découpe laser, prototypage rapide – vous apprendrez à concrétiser vos idées avec précision.
 
-- **Assemblage et calibration :** Les étudiants assembleront la machine en mettant en place tous les composants et en assurant leur alignement et leur bon fonctionnement. La calibration est essentielle pour garantir la précision des dessins.
+- **Programmation et électronique** : Vous programmerez des cartes Arduino et apprendrez à piloter des moteurs et des servos. Vous pourrez également travailler sur le développement logiciel pour générer les dessins ou concevoir vos propres cartes électroniques.
 
-## Environnement d'apprentissage
+- **Assemblage et calibration** : Vous assemblerez votre machine, en veillant à aligner et calibrer chaque élément pour garantir des performances optimales. C'est ici que votre machine prendra vie !
 
-Le cours se déroule dans le [MakerSpace](https://makerspace-amiens.fr), un espace d'apprentissage dynamique équipé de toutes les ressources nécessaires à la réalisation de projets techniques. Les étudiants auront accès aux machines, aux outils, et au support technique requis pour concrétiser leur machine de dessin. 
+---
 
-L'accent est mis sur l'apprentissage par la pratique, la collaboration et l'innovation, permettant aux étudiants de mettre en application les compétences acquises précédemment dans un cadre motivant et stimulant.
+## Pourquoi ce projet ?
+
+Ce projet vous permettra de développer vos compétences techniques tout en laissant place à votre créativité et votre esprit d’innovation. Vous travaillerez dans un cadre collaboratif au [MakerSpace](https://makerspace-amiens.fr), où vous aurez accès à des outils et à un accompagnement pour donner vie à votre machine de dessin.
+
+C’est une occasion unique d’apprendre par la pratique, de repousser vos limites et de voir vos idées se transformer en réalité. Alors, prêt·e·s à relever le défi ? À vos idées, vos outils… et construisez une machine qui dessine pour vous !
+
+---
+
+## Instructions pour le projet
+
+### Organisation générale
+Le projet **Machines That Draws** se déroule sur deux semestres (2 x 30 heures). 
+
+- **Semestre 1 (S1)** : Vous travaillerez sur le **prototypage** de votre machine. À la fin de ce semestre, vous devez avoir un **Proof of Concept (POC)** fonctionnel. 
+- **Semestre 2 (S2)** : Vous améliorerez votre machine pour développer une **version finale** plus aboutie. Vous travaillerez également sur la génération de tracés pour préparer la **Journée des Projets**, où vous présenterez votre travail.
+
+### Formation des équipes
+- Les équipes doivent être composées de **4 étudiants**. 
+- Étant donné la diversité des compétences nécessaires (électronique, mécanique, logiciel embarqué et logiciel sur ordinateur), il est recommandé de se regrouper **par affinité de compétences**, et non uniquement par affinité personnelle.
+- Une équipe équilibrée, avec des compétences complémentaires, sera un atout majeur pour relever les défis technologiques.
+
+### Méthodologie et autonomie
+Ce projet n’est **pas un TP classique** avec des instructions détaillées à suivre. Vous êtes **les maîtres de votre réussite** :
+- Utilisez le site dédié pour trouver des pistes et des ressources pour démarrer.
+- Prenez des initiatives : posez des questions, effectuez des recherches, testez différentes solutions.
+- N’hésitez pas à **travailler en dehors des heures de cours**. Le MakerSpace est ouvert presque toute la semaine, profitez-en pour avancer sur votre machine.
+
+### Travail attendu et livrables
+#### À la fin du S1 (Proof of Concept - POC)
+- **Présentation technique (5 minutes)** : Présentez vos choix techniques, le fonctionnement de votre POC et les défis rencontrés.
+- **Rendu OnShape** : Partagez un document unique contenant l’ensemble de la CAO de votre machine.
+- **Vidéo verticale (1 minute)** : Réalisez une vidéo en format portrait, destinée à présenter votre projet de manière professionnelle, comme si vous parliez à un futur recruteur. Montrez le fonctionnement de votre machine et mettez en avant vos compétences.
+
+#### À la fin du S2 (Version finale)
+- **Rendu OnShape** : Fournissez un document complet avec la CAO de la machine finalisée.
+- **Rapport technique** : Documentez votre machine de manière exhaustive, en incluant :
+  - Les étapes pour la recréer.
+  - Les améliorations possibles.
+  - Une évaluation critique des choix techniques.
+  - La qualité de votre rapport sera évaluée sur sa capacité à être réutilisé par d’autres.
+- **Vidéo finale** : Une vidéo présentant la version finalisée de votre machine et son fonctionnement.
+- **Participation à la Journée des Projets** : Préparez votre stand pour exposer votre machine et les travaux réalisés.
+- **Soutenance technique** : Une présentation approfondie de votre projet devant un jury.
+
+### Journée des Projets (Juin)
+La **Journée des Projets** est un événement phare où vous aurez l’occasion d’exposer votre machine devant des professionnels (enseignants d’autres écoles, entreprises, responsables politiques, etc.). Votre travail sera évalué par un jury sur :
+- La qualité de la machine.
+- Les tracés réalisés.
+- La clarté et la qualité de votre présentation.
+
+---
+
+## Conseils pour réussir
+- **Planifiez vos efforts** : Travaillez régulièrement tout au long des semestres pour éviter les retards.
+- **Collaborez efficacement** : Communiquez au sein de votre équipe et répartissez bien les tâches.
+- **Soyez curieux** : Explorez les ressources disponibles, cherchez des inspirations en ligne, et expérimentez.
+- **Profitez du MakerSpace** : Utilisez les équipements et demandez conseil si vous avez des doutes.
+
+
+---
+
+{%
+  include card_collections.html
+  title="Débutez votre projet !"
+  description="Suivez ces premiers tutoriels pour débuter"
+  type="tuto"
+%}
