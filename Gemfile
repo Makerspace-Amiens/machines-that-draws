@@ -4,3 +4,4 @@ gem "bulma-clean-theme",  '1.1.0'
 # gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 gem 'webrick'
+gem 'jekyll-spaceship', group: :jekyll_plugins
