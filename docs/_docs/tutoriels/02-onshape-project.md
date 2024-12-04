@@ -15,7 +15,6 @@ description: Cette page détaille les différentes étapes pour commencer avec O
 time: 1
 difficulty: 1
 
-todo: 80
 ---
 
 Le projet sera entièrement réalisé sur Onshape, un outil puissant que vous avez déjà utilisé par le passé. Très similaire à des logiciels comme SolidWorks ou Fusion 360, Onshape se distingue par son accessibilité et sa collaborativité. Accessible directement depuis un navigateur, il fonctionne sur n’importe quelle configuration de PC, permettant ainsi à chacun de travailler en temps réel sur un même fichier partagé en ligne.
@@ -113,3 +112,11 @@ Dans la fenêtre qui s'ouvre, cochez la case **Partager**, puis ajoutez les adre
 image="image-10.png" 
 %}
 
+---
+
+{%
+  include card_collections.html
+  title="Pour aller plus loin"
+  description="Trouvez d'autres tutoriels en lien avec le projet"
+  type="tuto"
+%}
