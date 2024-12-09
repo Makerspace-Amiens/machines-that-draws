@@ -14,6 +14,7 @@ description: Cette page détaille le fonctionnement du firmware GRBL
 manufacturer:
   - name: GRBL - Servo
     link: "https://github.com/vankesteren/grbl-servo/tree/servo"
+external_link: https://github.com/vankesteren/grbl-servo/tree/servo
 
 todo: 10
 author: Adrien BRACQ

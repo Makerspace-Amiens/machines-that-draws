@@ -15,6 +15,8 @@ manufacturer:
   - name: Processing
     link: "https://processing.org"
 
+external_link: https://processing.org
+
 todo: 10
 author: Adrien BRACQ
 ---

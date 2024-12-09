@@ -8,14 +8,14 @@ component_toc: true
 doc_header: true
 type: software
 
-title: UGS
-subtitle: Universal GCode Sender
-description: Logiciel permettant de piloter une machine CNC basée sur GRBL 
+title: Arduino IDE
+subtitle: Interface de développement Arduino
+description: Logiciel permettant de programmer des microcontrolleurs avec le framework Arduino
 manufacturer:
-  - name: UGS
-    link: "https://github.com/winder/Universal-G-Code-Sender"
+  - name: Arduino
+    link: "https://www.arduino.cc/en/software"
 
-external_link: https://github.com/winder/Universal-G-Code-Sender
+external_link: https://www.arduino.cc/en/software
 
 todo: 10
 author: Adrien BRACQ

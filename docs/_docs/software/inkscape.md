@@ -14,6 +14,8 @@ description: Inkscape est un logiciel libre spécialisé dans la création et l'
 manufacturer:
   - name: Inkscape
     link: "https://inkscape.org/fr/"
+    
+external_link: https://inkscape.org/fr/
 
 todo: 10
 author: Adrien BRACQ
