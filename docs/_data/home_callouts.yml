@@ -5,19 +5,19 @@ items:
     icon: fa-info-circle
     description: >
       Retrouvez les informations sur le projet
-    call_to_action_name: Informations
+    call_to_action_name: Voir les informations
     call_to_action_link: /pages/informations
 
   - title: Le materiel
     icon: fa-toolbox
     description: >
-      Une description et une documentation du matériel poru ce projet
+      Une description et une documentation du matériel
     call_to_action_name: Voir le materiel
     call_to_action_link: /pages/materiels
 
   - title: Tutoriels
     description: >
-      Retrouvez les tutoriels démarrer la création de votre machine
+      Retrouvez les tutoriels pour démarrer la création de votre machine
     icon: fa-cogs
-    call_to_action_name: Voir les projets
+    call_to_action_name: Voir les tutoriels
     call_to_action_link: /pages/tutoriels
