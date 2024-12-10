@@ -11,31 +11,33 @@ subtitle: Fabriquez votre machine qui dessine !
 
 ## Machines That Draws
 
-Bienvenue dans le projet **"Machines That Draws"** ! Vous allez concevoir et construire votre propre machine de dessin automatisée, sans plans préétablis, en laissant libre cours à votre imagination et vos compétences. 
+Bienvenue dans le projet **"Machines That Draws"** ! Vous allez **concevoir** et **construire** votre propre **machine de dessin automatisée**, sans plans préétablis, en laissant libre cours à votre imagination et vos compétences. 
 
-Inspiré par des dispositifs comme l'Axidraw et des projets open source, ce projet vous permettra d’explorer des domaines variés comme l’électronique, la programmation, et la fabrication numérique, tout en manipulant des composants tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
+Inspiré par des dispositifs comme l'Axidraw et des projets **open source**, ce projet vous permettra d’explorer des domaines variés comme l’**électronique**, la **programmation**, et la **fabrication numérique**, tout en manipulant des composants tels que des moteurs pas à pas, des servos, et des cartes Arduino avec CNC Shields.
 
-Le projet se déroule sur deux semestres (30 heures par semestre), ce qui vous laissera le temps de vous immerger pleinement dans toutes les étapes de création.
+Le projet se déroule sur **deux semestres (30 heures par semestre)**, ce qui vous laissera le temps de vous immerger pleinement dans toutes les étapes de création.
 
 ---
 
 ## Ce que vous allez apprendre et réaliser
 
-- **Conception Assistée par Ordinateur (CAO)** : Vous apprendrez à dessiner et modéliser les pièces de votre machine à l’aide de logiciels de CAO. Cette étape est cruciale pour planifier la structure et les composants de votre machine.
+- **Conception Assistée par Ordinateur (CAO)** : Vous apprendrez à **imaginer**, **dessiner** et **modéliser** les pièces de votre machine à l’aide de logiciels de CAO. 
 
-- **Fabrication numérique** : Une fois vos pièces conçues, vous utiliserez les outils du MakerSpace pour les fabriquer. Impression 3D, découpe laser, prototypage rapide – vous apprendrez à concrétiser vos idées avec précision.
+- **Fabrication numérique** : Une fois vos pièces conçues, vous utiliserez les outils du MakerSpace pour les fabriquer. Entre **impression 3D**, **découpe laser** et autres outils et technologies de prototypage rapide, vous avez tout ce dont vous avez besoin pour **tester** et **concrétiser** vos idées.
 
-- **Programmation et électronique** : Vous programmerez des cartes Arduino et apprendrez à piloter des moteurs et des servos. Vous pourrez également travailler sur le développement logiciel pour générer les dessins ou concevoir vos propres cartes électroniques.
+- **Programmation et électronique** : Vous programmerez des cartes **Arduino** et apprendrez à piloter des **moteurs** et des **servos**. Vous pourrez également travailler sur le **développement logiciel** pour générer les dessins ou concevoir vos propres cartes électroniques.
 
-- **Assemblage et calibration** : Vous assemblerez votre machine, en veillant à aligner et calibrer chaque élément pour garantir des performances optimales. C'est ici que votre machine prendra vie !
+- **Assemblage et calibration** : Vous assemblerez votre machine, en veillant à **aligner** et **calibrer** chaque élément pour garantir un fonctionnement **optimal**. C’est ici que votre machine prendra vie !
 
 ---
 
 ## Pourquoi ce projet ?
 
-Ce projet vous permettra de développer vos compétences techniques tout en laissant place à votre créativité et votre esprit d’innovation. Vous travaillerez dans un cadre collaboratif au [MakerSpace](https://makerspace-amiens.fr), où vous aurez accès à des outils et à un accompagnement pour donner vie à votre machine de dessin.
+Ce projet vous permettra de développer vos compétences techniques tout en laissant place à votre créativité et votre esprit d’innovation. Vous travaillerez dans un cadre collaboratif au [MakerSpace](https://makerspace-amiens.fr), où vous aurez accès à des outils et à un accompagnement pour donner vie à votre machine.
 
-C’est une occasion unique d’apprendre par la pratique, de repousser vos limites et de voir vos idées se transformer en réalité. Alors, prêt·e·s à relever le défi ? À vos idées, vos outils… et construisez une machine qui dessine pour vous !
+C’est une occasion d’apprendre par la pratique et de voir vos idées se transformer en réalité. 
+
+Alors, prêt·e·s à relever le défi ? À vos idées, vos outils… à vous de construire la **machine qui vous ressemble** !
 
 ---
 
