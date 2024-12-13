@@ -6,7 +6,7 @@ hero_darken: true
 image: onshapeLogo.png
 component_toc: true
 doc_header: true
-type: tuto
+type: onshape
 
 title: Démarrer avec OnShape
 subtitle: Créer votre compte, créez votre projet, etc...
@@ -118,5 +118,5 @@ image="image-10.png"
   include card_collections.html
   title="Pour aller plus loin"
   description="Trouvez d'autres tutoriels en lien avec le projet"
-  type="tuto"
+  type="onshape"
 %}
