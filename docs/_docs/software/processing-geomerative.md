@@ -1,9 +1,9 @@
 ---
 layout: documentation
 hide_hero: false
-hero_image: image.png
+hero_image: geomerative.png
 hero_darken: true
-image: image.png
+image: geomerative.png
 component_toc: true
 doc_header: true
 type: software
@@ -13,12 +13,12 @@ subtitle: Nécessaire pour génerer du GCODE avec Processing
 description: Librairie Processing pour utiliser le boilerplate GCODE
 manufacturer:
   - name: github
-    link: "https://github.com/sighack/processing-boilerplate"
+    link: "https://github.com/Makerspace-Amiens/geomerative"
 
-external_link: https://github.com/sighack/processing-boilerplate
+external_link: https://github.com/Makerspace-Amiens/geomerative
 
 todo: 100
-author: Adrien BRACQ
+author: Rémi Lacombe
 ---
 
 {% include message.html title="Bientôt !" message="La page est en cours de construction. Bientôt, vous retrouverez ici les informations pour construire votre projet"
