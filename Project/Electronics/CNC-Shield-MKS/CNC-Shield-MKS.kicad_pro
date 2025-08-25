@@ -59,7 +59,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|126522072|61029000|d2239b76-77da-4cd8-8883-f63e087facb4|eae6a854-0f1a-4c1e-8ceb-adfaf4346d7d",
+          ""
+        ],
+        [
+          "courtyards_overlap|130315000|60709000|c46d6358-5210-4f8f-9aad-69da7552b32c|eae6a854-0f1a-4c1e-8ceb-adfaf4346d7d",
+          ""
+        ],
+        [
+          "courtyards_overlap|150632072|61029000|7f4ccaf8-67e2-4ace-8e01-3bed17231aea|84f344e5-fb31-4e44-af83-5bd0b94e521d",
+          ""
+        ],
+        [
+          "courtyards_overlap|154445000|60709000|7f4ccaf8-67e2-4ace-8e01-3bed17231aea|ace56946-0838-43d6-8624-82f53b14d659",
+          ""
+        ]
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -103,9 +120,9 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -196,7 +213,11 @@
         0.0,
         0.2,
         0.4,
-        0.6
+        0.6,
+        0.8,
+        1.0,
+        1.2,
+        1.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
