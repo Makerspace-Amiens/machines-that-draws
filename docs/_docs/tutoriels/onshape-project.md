@@ -70,27 +70,9 @@ image="2022-09-07-10-29-20.png" %}
 
 ## Création du fichier Projet
 
-Pour la suite du projet, vous allez partir d'un fichier Onshape contenant des composants déjà modélisés pour vous aider à démarrer. Suivez les étapes ci-dessous.
-
-{% include message.html 
-title="ATTENTION"
-status="is-warning" 
-message="Les étapes suivantes doivent être effectuées une seule fois pour l'ensemble du groupe."%}
-
-{% include step-tuto.html 
-greyBackground = true
-content="[Cliquez sur ce lien de partage](https://cad.onshape.com/documents/779c8d84c3a657c0d64be332/w/bec21e2e6b378a134fd70ce8/e/be4a8c01d60ceec3440ac8b8?renderMode=0&uiState=6750889aaa41d03804ab28a2). Vous accéderez à un fichier projet nommé **Machine That Draws**. En haut de la page, un message vous informe que le document peut être copié dans votre espace de travail.
-
-![alt text](image-1.png)
-
-Cliquez sur le bouton **Créer une copie**." 
-image="image.png" %}
-
-{% include step-tuto.html 
-greyBackground = true
-content="Renommez votre document en ajoutant le numéro de votre groupe (voir image), puis sélectionnez l'emplacement où vous souhaitez stocker votre document. Cliquez sur **Créer un document public**." 
-image="image-2.png" 
-image_2="image-3.png" %}
+Pour la suite du projet, vous allez partir d'un fichier Onshape contenant des composants déjà modélisés pour vous aider à démarrer.  
+Communiquez les membres de votre groupe aux encadrants, ils vous partagerons l'accès en modification au document dans lequel vous devrez travailler sur Onshape.
+Ce dernier portera ce nom : **Machine that draws 2025-2026 - GROUPE XX** (numéro de votre groupe)
 
 {% include step-tuto.html 
 greyBackground = true
@@ -99,18 +81,6 @@ image="image-5.png"
 image_2="image-6.png"
 image_3="image-7.png"
 image_4="image-8.png" %}
-
-## Partage de votre document
-
-{% include step-tuto.html 
-greyBackground = true
-content="En haut de votre document, cliquez sur le bouton **Partager**.
-
-![alt text](image-9.png)
-
-Dans la fenêtre qui s'ouvre, cochez la case **Partager**, puis ajoutez les adresses de tous les membres du groupe **ainsi que celle de votre enseignant.**" 
-image="image-10.png" 
-%}
 
 ---
 
