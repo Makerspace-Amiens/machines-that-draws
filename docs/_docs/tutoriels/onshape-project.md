@@ -71,12 +71,12 @@ image="2022-09-07-10-29-20.png" %}
 ## Création du fichier Projet
 
 Pour la suite du projet, vous allez partir d'un fichier Onshape contenant des composants déjà modélisés pour vous aider à démarrer.  
-Communiquez les membres de votre groupe aux encadrants, ils vous partagerons l'accès en modification au document dans lequel vous devrez travailler sur Onshape.
+Communiquez les membres de votre groupe aux encadrants, ils vous partagerons l'accès en modification au document dans lequel vous devrez travailler sur Onshape.  
 Ce dernier portera ce nom : **Machine that draws 2025-2026 - GROUPE XX** (numéro de votre groupe)
 
 {% include step-tuto.html 
 greyBackground = true
-content="Vous devriez maintenant avoir votre document dans votre espace avec les droits nécessaires pour le modifier. Explorez les dossiers pour découvrir les différents éléments déjà intégrés. Un onglet d'assemblage est également créé, dans lequel vous retrouverez l'intégralité de votre machine assemblée." 
+content="Vous devriez maintenant avoir accès à **votre document** avec les droits nécessaires pour le **modifier**. **Explorez** les dossiers pour découvrir les différents éléments déjà intégrés. Un onglet d'**assemblage** est également créé, dans lequel vous retrouverez le plateau sur lequel fabriquer **votre machine** ." 
 image="image-5.png"
 image_2="image-6.png"
 image_3="image-7.png"
