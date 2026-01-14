@@ -13,7 +13,7 @@ items:
     description: >
       Une description et une documentation du matériel
     call_to_action_name: Voir le materiel
-    call_to_action_link: /pages/materiels
+    call_to_action_link: /pages/hardware
 
   - title: Tutoriels
     description: >
