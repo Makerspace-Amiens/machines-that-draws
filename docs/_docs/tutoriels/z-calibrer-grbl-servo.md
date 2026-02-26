@@ -81,7 +81,7 @@ Conformément à la [**documentation fournie**](https://www.feetechrc.com/6v-32k
 
 Remplacez donc par :
 
-**#define RC_SERVO_SHORT      9      // Correspond à 600 µs**
+**#define RC_SERVO_SHORT      9      // Correspond à 600 µs**  
 **#define RC_SERVO_LONG       34     // Correspond à 2400 µs**
 "%}
 
